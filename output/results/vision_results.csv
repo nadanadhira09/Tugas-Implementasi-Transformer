@@ -1,0 +1,4 @@
+Model,Dataset,Accuracy,Loss,Parameters,Time (s),Notes
+ViT (4x4),CIFAR-10,0.5658,1.2052,"280,842",104.25,"Patch 4x4, 64 patches"
+CNN Residual,CIFAR-10,0.8114,0.5487,"2,811,786",156.35,BatchNorm + Residual Blocks
+DenseNet,CIFAR-10,0.7624,0.6853,"1,985,432",140.82,Dense connections between layers

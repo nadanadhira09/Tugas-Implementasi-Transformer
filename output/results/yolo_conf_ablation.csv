@@ -1,0 +1,6 @@
+Conf_Threshold,Detections,Avg_Confidence,Inference_Time_s,Use_Case
+0.1,7,0.636,0.006,Research / recall priority
+0.25,5,0.838,0.006,General purpose (default)
+0.5,5,0.838,0.006,Balanced precision-recall
+0.7,4,0.895,0.006,High-precision deployment
+0.85,4,0.895,0.006,Critical / safety systems

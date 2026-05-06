@@ -1,0 +1,4 @@
+Model,Parameters,Detections,Avg_Confidence,Inference_Time_s,Trade_off
+YOLOv8n (Nano),3151904,6,0.656,0.203,"Fastest, edge devices"
+YOLOv8s (Small),11156544,5,0.838,0.045,Balanced speed & accuracy
+YOLOv8m (Medium),25886080,5,0.892,0.108,"Best accuracy, production"

@@ -1,0 +1,4 @@
+Model,Dataset,Accuracy,Loss,Parameters,Time (s),Notes
+Transformer,AG News,0.9066,0.2781,"938,500",189.36,Using TransformerEncoderLayer
+BiLSTM Attention,AG News,0.9118,0.2788,"847,557",101.42,Using BiLSTM + Attention mechanism
+LSTM Bidirectional,AG News,0.9114,0.2663,"624,300",92.85,Standard BiLSTM without attention
