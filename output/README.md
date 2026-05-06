@@ -3,7 +3,7 @@
 
 ---
 
-## 📋 RINGKASAN EKSEKUTIF
+## 📋 RINGKASAN
 
 Proyek ini mengimplementasikan dan membandingkan berbagai arsitektur deep learning untuk tiga domain berbeda:
 1. **Klasifikasi Teks**: Dataset AG News (120K sampel) dengan Transformer vs BiLSTM+Attention
