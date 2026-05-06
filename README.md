@@ -3,7 +3,8 @@
 **Nama:** Nada Nadhira Najwa Mazaya  
 **NIM:** 256150100111005  
 **Institusi:** Program Magister Ilmu Komputer, Fakultas Ilmu Komputer (FILKOM), Universitas Brawijaya
-**Link Drive:** https://drive.google.com/drive/folders/1VNtSF2dLp0D47rzHS5Rceh-TE_Zshv6a?usp=sharing 
+
+**Link Drive Laporan:** https://drive.google.com/drive/folders/1VNtSF2dLp0D47rzHS5Rceh-TE_Zshv6a?usp=sharing 
 
 Repositori ini berisi implementasi dan eksperimen **Transformer** dari scratch menggunakan PyTorch, mencakup tiga domain utama: **Text Classification**, **Vision Classification**, dan **Object Detection**. Setiap eksperimen menyertakan model pembanding (baseline) untuk analisis trade-off yang komprehensif.
 
